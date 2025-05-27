@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SmartTripPlanner/static/css/main.fc2fa517.css",
+    "main.js": "/SmartTripPlanner/static/js/main.0fcb9900.js",
+    "static/js/453.38cd92f0.chunk.js": "/SmartTripPlanner/static/js/453.38cd92f0.chunk.js",
+    "index.html": "/SmartTripPlanner/index.html",
+    "main.fc2fa517.css.map": "/SmartTripPlanner/static/css/main.fc2fa517.css.map",
+    "main.0fcb9900.js.map": "/SmartTripPlanner/static/js/main.0fcb9900.js.map",
+    "453.38cd92f0.chunk.js.map": "/SmartTripPlanner/static/js/453.38cd92f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc2fa517.css",
+    "static/js/main.0fcb9900.js"
+  ]
+}
